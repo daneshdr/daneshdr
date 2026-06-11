@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Sophomore at Telkom Vocational High School Jakarta 🎓<br>Software Engineering major 💻 | Just started my coding journey 🚀<br><br>• Rubik’s Cube enthusiast 🧩<br>• Consistent with workouts 🏋️<br>• Floorball player 🏑<br><br>Learning, building, breaking, and fixing things along the way ⚙️<br>Curious about tech, discipline, and getting better every day 🔥
+Sophomore at Telkom Vocational High School Jakarta 🎓<br>Software Engineering major 💻 | Just started my coding journey 🚀<br><br>• Rubik’s Cube enthusiast 🧩<br>• Consistent with workouts 🏋️<br>• Floorball player 🏑sssss7️⃣<br><br>Learning, building, breaking, and fixing things along the way ⚙️<br>Curious about tech, discipline, and getting better every day 🔥
 
 
 ## 🌐 Socials:
@@ -34,5 +34,3 @@ Sophomore at Telkom Vocational High School Jakarta 🎓<br>Software Engineering 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daneshdr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
