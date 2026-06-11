@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Student (About to be a junior) at Telkom Vocational High School Jakarta 🎓<br>Software Engineering major 💻 | Just started my coding journey 🚀<br><br>• Rubik’s Cube enthusiast 🧩<br>• Consistent with workouts 🏋️<br>• Floorball player 🏑6️⃣7️⃣<br><br>Learning, building, breaking, and fixing things along the way ⚙️<br>Curious about tech, discipline, and getting better every day 🔥
+Student (About to be a junior) at Telkom Vocational High School Jakarta 🎓<br>Software Engineering major 💻 | Just started my coding journey 🚀<br><br>• Rubik’s Cube enthusiast 🧩<br>• Consistent with workouts 🏋️<br>• Floorball player 🏑6️⃣7️⃣<br>• Have interest in pool 🎱<br><br>Learning, building, breaking, and fixing things along the way ⚙️<br>Curious about tech, discipline, and getting better every day 🔥
 
 
 ## 🌐 Socials:
